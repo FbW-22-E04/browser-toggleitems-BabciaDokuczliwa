@@ -1,0 +1,19 @@
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+.box{
+    width: 90%;
+    height: 80%;
+}
+ul.nav{
+    display: none;
+}
+.btn2{
+    display: none;
+}
+.nav-link:hover {
+    background-color: blue;
+    color: white !important;
+}
